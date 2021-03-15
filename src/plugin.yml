@@ -1,0 +1,6 @@
+name: TpPosition
+version: BETA
+main: com.betaken.tpposition.TpPosition
+commands:
+  teleport:
+  tp:
